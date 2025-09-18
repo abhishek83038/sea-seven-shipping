@@ -225,6 +225,26 @@
     background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("https://www.offshore-technology.com/wp-content/uploads/sites/20/2025/09/Offshore-shutterstock_1032616825.jpg") center center no-repeat;
     background-size: cover;
 }
+.about-header {
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("../img/gallery/gallery7.jpeg") center center no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contact-header {
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("../img/gallery/gallery8.jpeg") center center no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sale-header {
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("https://dwelloship.com/wp-content/uploads/2024/08/shipping-banner-2000-1.jpg") center center no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bookingservice {
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("https://png.pngtree.com/thumb_back/fw800/background/20250415/pngtree-shipping-container-vessel-cargo-ship-moving-containers-for-international-freight-transport-image_17184337.jpg") center center no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: var(--light);

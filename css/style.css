@@ -226,12 +226,12 @@
     background-size: cover;
 }
 .about-header {
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("../img/gallery/gallery7.jpeg") center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("https://i.pinimg.com/736x/80/81/c5/8081c519bd631844e676e42af2d7e41b.jpg") center center no-repeat;
     background-size: cover;
     background-position: center;
 }
 .contact-header {
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("../img/gallery/gallery8.jpeg") center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url("https://i.pinimg.com/1200x/93/c9/fb/93c9fb271f5468b440c6e9bd1cca7c9d.jpg") center center no-repeat;
     background-size: cover;
     background-position: center;
 }
